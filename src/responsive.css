@@ -1,0 +1,58 @@
+
+
+@media (min-width: 320px) { 
+   
+}
+
+
+@media (min-width: 360px) { 
+   
+}
+
+@media (min-width: 420px) { 
+  
+}
+
+@media (min-width: 480px) { 
+   
+}
+@media (min-width: 576px) { 
+    .crd{
+        width: 100%;
+    }
+    .todoList{
+        width: 100%;
+    }
+ }
+
+
+@media (min-width: 768px) { 
+    .crd{
+        width: 50%;
+    }
+    .todoList{
+        width: 100%;
+    }
+ }
+
+
+@media (min-width: 992px) { 
+    .crd{
+        width: 50%;
+    }
+    .todoList{
+        width: 100%;
+    }
+    
+ }
+
+
+@media (min-width: 1200px) { 
+    .crd{
+        width: 50%;
+    }
+    .todoList{
+        width: 100%;
+    }
+   
+ }
