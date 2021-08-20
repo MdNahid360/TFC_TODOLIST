@@ -83,7 +83,7 @@ input:focus{
     color: #00b71a!important;
     z-index: 1;
     background: rgb(251 251 251)!important;
-    border: 1px solid #03d000!important;
+    border: 1px solid #03d000!important; 
     text-decoration: none!important;
 }
 .rmv {
@@ -196,8 +196,8 @@ input:focus{
 
   .plusBtn{
     position: absolute;
-    right: 6%;
-    bottom: 10%;
+    left: 8%;
+    top: 5%;
   width: 60px;
   overflow: hidden;
   height: 60px;
